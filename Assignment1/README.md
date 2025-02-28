@@ -1,0 +1,2 @@
+I have learned how to write basic command line codes, from knowing my current working directory to changing directory then also creating a directory or folder, and also creating a file.
+I also learned about the chmod which is the command to determine what a user and other users can do with a file or a directory, and I know what commands to write to bypass them. I learned about the text editors too. I learned about shell, kernels, utilities, and terminals
